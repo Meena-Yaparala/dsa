@@ -1,4 +1,4 @@
-# dsa
-i am learning dsa
-i am from cse cs
-i am studing at rgm
+# Data-Structures-and-Algorithms
+
+Learning data structures and algorithms using JAVA
+ and developing a project.
